@@ -1,0 +1,6 @@
+# Скомпільовані класи Eclipse
+bin/
+*.class
+# Службові файли
+.metadata/
+*.log
